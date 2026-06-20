@@ -1,6 +1,6 @@
 # Country Caravan Care
 
-Static GitHub Pages site for Country Caravan Care.
+Country Caravan Care site
 
 ## Structure
 
